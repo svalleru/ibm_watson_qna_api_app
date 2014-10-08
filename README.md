@@ -5,4 +5,6 @@ App that queries IBM Watson Super Computer instance to answer healthcare related
 
 Terminology:
 IBM Watson: https://en.wikipedia.org/wiki/Watson_(computer)
-Bluemix: IBM's PaaS , powered by CloudFoundry
+Bluemix: IBM's PaaS powered by CloudFoundry
+
+Live App (for limited time): http://qa-java-svalleru.mybluemix.net
