@@ -1,0 +1,13 @@
+  551  ant clean
+  552  ant build
+  558  brew install cloudfoundry-cli
+  559  brew update
+  563  cf api https://api.ng.bluemix.net
+  564  cf login -u email@domain.com
+  565  cf marketplace
+  566  cf create-service service-name plan qa-service
+  567  cf push qa-java-svallerui
+
+http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/qaapi/index.html
+
+My Q&A App: http://qa-java-svalleru.mybluemix.net (Live for limited time)

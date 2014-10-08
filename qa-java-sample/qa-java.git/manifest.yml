@@ -1,0 +1,6 @@
+applications:
+- services:
+  - qa-service
+  name: qa-java
+  path: webApp.war
+  memory: 512M
